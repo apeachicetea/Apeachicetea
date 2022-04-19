@@ -1,5 +1,5 @@
 Hi there 👋 <br>
-I'm **web front-end developer :)**
+I'm a **web front-end developer :)**
 
 
 
