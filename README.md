@@ -1,8 +1,9 @@
 Hi there 👋 <br>
-I'm a **Codestates Software Engineer :)**
+I'm a **Front-end Engineer :)**
 
 
 
+<!--
 ### 🧑🏻‍💻 ing...
 
 <div align=left> 
@@ -11,7 +12,7 @@ I'm a **Codestates Software Engineer :)**
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
-
+-->
 #### 🛠 Stack
 <div align=left> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
